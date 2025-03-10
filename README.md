@@ -26,12 +26,12 @@ El campo "orden" permite ordenar los valores del campo "semana".
 Crear una tabla calendario para concentrar las fechas y permitir el análisis en fechas sin datos.
 
 ### Sheet1 (Tabla hechos)
-![Captura de pantalla 2025-03-09 231250](https://github.com/user-attachments/assets/bc421237-3f50-471a-8b29-11c82f77251c)
+![Captura de pantalla 2025-03-09 235450](https://github.com/user-attachments/assets/1f9e8632-8797-4a1e-85cd-5f6440fa9d81)
 
 Informacion sobre los pedidos programados y cantidades a entregar.
 
 ## DAX
-Medida que muestre el periodo de fecha a proyectar.
+Medida que muestra el periodo de fecha a proyectar.
 ```
 Periodo_Fecha = 
 var _Fecha_Inicio = SELECTEDVALUE(Calendario[Date])
