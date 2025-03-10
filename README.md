@@ -1,8 +1,7 @@
 # Visor-Semanal
 Es una solución en Power BI que permite proyectar los días restantes de la semana según la fecha seleccionada. 
 Utiliza segmentación única por fecha para visualizar de manera dinámica los próximos días hábiles (Lunes a Domingo), optimizando el análisis y la planificación.
-
-Demostración 
+ 
 ![Captura de pantalla 2025-03-09 230738](https://github.com/user-attachments/assets/ed0644ca-5fe9-458b-b887-f75b814f5193)
 
 ## Objetos Visuales ocupados 
