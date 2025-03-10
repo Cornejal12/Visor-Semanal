@@ -92,3 +92,18 @@ SWITCH(
     "Total", _Cantidad_Total
 )
 ```
+## Estilos Aplicados
+### Diseño de Múltiplos pequeños 
+![Captura de pantalla 2025-03-10 000808](https://github.com/user-attachments/assets/0dbceade-5a10-4ca8-a1f1-b0114f2d03b4)
+![image](https://github.com/user-attachments/assets/d4cb51bd-a8b2-4182-b9ef-6ab978eca95d)
+
+
+### Encabezado de Múltiplos pequeños 
+### Presentación
+### Valores de llamada
+### Tarjetas
+"Aplicar configuración a" 
+Serie 
+- Fechas
+- Cantidad_Articulos
+![Captura de pantalla 2025-03-10 000728](https://github.com/user-attachments/assets/cf443f7c-7708-4414-ad7c-57b61bb0c785)
