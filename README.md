@@ -106,8 +106,11 @@ SWITCH(
 ![image](https://github.com/user-attachments/assets/96ef1861-02e6-4368-9924-4cfb914d9986)
 
 ### Valores de llamada
+#### Fechas
 ![image](https://github.com/user-attachments/assets/7d958ed1-b2f3-46a8-b652-7bc130894ce0)
 ![image](https://github.com/user-attachments/assets/c8456b82-63b9-43ff-a40f-764ed802063a)
+
+#### Cantidad_Articulos
 ![image](https://github.com/user-attachments/assets/8e8f1f72-062d-4031-9c32-0fd92d9e70a0)
 ![image](https://github.com/user-attachments/assets/0c7c2673-05be-4413-9fbb-95e46d4e28ee)
 ![image](https://github.com/user-attachments/assets/1ab9ba2e-bfb1-4219-8d62-0b03f4dd509f)
