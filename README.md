@@ -97,13 +97,25 @@ SWITCH(
 ![Captura de pantalla 2025-03-10 000808](https://github.com/user-attachments/assets/0dbceade-5a10-4ca8-a1f1-b0114f2d03b4)
 ![image](https://github.com/user-attachments/assets/d4cb51bd-a8b2-4182-b9ef-6ab978eca95d)
 
-
 ### Encabezado de Múltiplos pequeños 
+![image](https://github.com/user-attachments/assets/728bcab6-1627-4328-b638-cbf4214bb044)
+![image](https://github.com/user-attachments/assets/a2ce430b-2136-4221-9bd1-047d2120ccc5)
+
 ### Presentación
+![image](https://github.com/user-attachments/assets/a53e860b-0473-4b2e-b702-3b7f52675773)
+![image](https://github.com/user-attachments/assets/96ef1861-02e6-4368-9924-4cfb914d9986)
+
 ### Valores de llamada
+![image](https://github.com/user-attachments/assets/7d958ed1-b2f3-46a8-b652-7bc130894ce0)
+![image](https://github.com/user-attachments/assets/c8456b82-63b9-43ff-a40f-764ed802063a)
+![image](https://github.com/user-attachments/assets/8e8f1f72-062d-4031-9c32-0fd92d9e70a0)
+![image](https://github.com/user-attachments/assets/0c7c2673-05be-4413-9fbb-95e46d4e28ee)
+![image](https://github.com/user-attachments/assets/1ab9ba2e-bfb1-4219-8d62-0b03f4dd509f)
+
 ### Tarjetas
 "Aplicar configuración a" 
 Serie 
 - Fechas
 - Cantidad_Articulos
+
 ![Captura de pantalla 2025-03-10 000728](https://github.com/user-attachments/assets/cf443f7c-7708-4414-ad7c-57b61bb0c785)
