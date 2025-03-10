@@ -92,7 +92,7 @@ SWITCH(
     "Total", _Cantidad_Total
 )
 ```
-##Objeto card new 
+## Objeto card new 
 Se puede cambiar el orden de las medidas.
 ![image](https://github.com/user-attachments/assets/5732f8e0-00ef-492c-8a89-d95668b89f1a)
 
