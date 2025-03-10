@@ -92,6 +92,10 @@ SWITCH(
     "Total", _Cantidad_Total
 )
 ```
+##Objeto card new 
+Se puede cambiar el orden de las medidas.
+![image](https://github.com/user-attachments/assets/5732f8e0-00ef-492c-8a89-d95668b89f1a)
+
 ## Estilos Aplicados
 ### Diseño de Múltiplos pequeños 
 ![Captura de pantalla 2025-03-10 000808](https://github.com/user-attachments/assets/0dbceade-5a10-4ca8-a1f1-b0114f2d03b4)
